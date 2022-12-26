@@ -21,6 +21,7 @@ namespace Test1
         static void Main(string[] args)
         {
             Test1
+                Test 2
             #region MongoDBDemo
             //MongoDBService2.Create();
             //MongoDBService2.Update();
