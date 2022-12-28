@@ -24,6 +24,7 @@ namespace Test1
                 Test 2
                 12345
                 678
+                910
             #region MongoDBDemo
             //MongoDBService2.Create();
             //MongoDBService2.Update();
